@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🔭 I’m currently working on learning github and setting up a personal README!
 <!--
 **danlav65/danlav65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
